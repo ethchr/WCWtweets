@@ -37,3 +37,4 @@ rsconnect/
 
 # Twitter token created in rtweet package
 twitter_token.R
+.Rproj.user
